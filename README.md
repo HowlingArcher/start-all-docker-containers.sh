@@ -27,7 +27,8 @@ User=<your_user>
 Group=<your_group>
 
 [Install]
-WantedBy=multi-user.target```
+WantedBy=multi-user.target
+```
 
 Enter the username in <your_user> to run the script at startup as that user.
 Same goes for the <your_group> placeholder.
